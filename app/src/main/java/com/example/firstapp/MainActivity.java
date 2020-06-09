@@ -20,6 +20,8 @@ public class MainActivity extends AppCompatActivity {
         text = findViewById(R.id.text);
         text.setText("Yeah");
 
+        //jskd
+
 
 
 
